@@ -1,16 +1,11 @@
-# realchatapp
+# RealChatApp
 
-A new Flutter project.
+A Flutter real-time chat app that enables multiple users to participate in chat rooms.
+Integrated Firebase Firestore as the real-time database to store and synchronize chat messages across devices in real-time, Utilized cloud functions in Firebase to send notifications to all participants whenever a user sends a message.
 
-## Getting Started
+## Screenshots 
+![1](https://github.com/siddharth-droid/realchat/assets/73477387/900eef90-bb7b-4d70-9e4c-7b0ae531b85c)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/siddharth-droid/realchat/assets/73477387/24ee3e65-01b9-4763-b894-cadcd6151aa2)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/siddharth-droid/realchat/assets/73477387/5b8dca16-f767-4983-a959-863b7f5e5428)
